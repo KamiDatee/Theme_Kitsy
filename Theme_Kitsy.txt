@@ -7,7 +7,7 @@
 "dofusVersion" : "2.47",
 "description" : "Theme noir blanc et gris, créé par Meos et modifié par Kami pour qu'il soit compatible avec Kitsy 2.47",
 "url" : "https://github.com/KamiDatee/Theme_Kitsy/blob/b3db2869e679a0e291ebced107d7ac928410c23e/Theme_Kitsy.zip",
-"previewUrl" : "https://github.com/fireone62/Arkatheme/raw/master/Capture.PNG",
+"previewUrl" : "https://github.com/KamiDatee/Theme_Kitsy/blob/bfc86a4b513810b2036b124f5035bae47307c762/KitsyPreview.png",
 "creationDate" : "19/11/2021",
 "modificationDate" : "19/11/2021"
 }
